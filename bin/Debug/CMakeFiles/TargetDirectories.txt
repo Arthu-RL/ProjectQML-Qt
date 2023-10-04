@@ -1,0 +1,4 @@
+/home/developer/workspace/ProjectQML-Qt/bin/Debug/CMakeFiles/rebuild_cache.dir
+/home/developer/workspace/ProjectQML-Qt/bin/Debug/CMakeFiles/edit_cache.dir
+/home/developer/workspace/ProjectQML-Qt/bin/Debug/CMakeFiles/ProjectQML-Qt.dir
+/home/developer/workspace/ProjectQML-Qt/bin/Debug/CMakeFiles/ProjectQML-Qt_autogen.dir
